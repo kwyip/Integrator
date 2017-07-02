@@ -1,5 +1,6 @@
 %input function f, a and b lower and upper intervals, larger the n higher the accuracy
-function r = Romberg(f, a, b, n) %Romberg
+%Ka Wa Yip (kwyip)
+function r = romberg(f, a, b, n) %Romberg
 %r - Romberg table storing the computed integrals.
 r = zeros(n+1, n+1);
 h = b - a;
