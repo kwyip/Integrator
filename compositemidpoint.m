@@ -1,3 +1,4 @@
+%n = 1 for just midpoint for 1 interval
 function midpoint = compositemidpoint(f, a, b, n)
 h = (b - a)/n;
 midpoint = 0;
