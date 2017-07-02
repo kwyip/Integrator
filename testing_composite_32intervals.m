@@ -1,3 +1,4 @@
+%Ka Wa Yip (github: kwyip)
 function testing_composite_32intervals
 fprintf('testingforover32intervals\n');
 f = @(x)exp(-x).*cos(x);
