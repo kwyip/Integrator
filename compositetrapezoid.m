@@ -1,4 +1,5 @@
 %n subinterval
+%Ka Wa Yip (github:kwyip)
 function trapezoid = compositetrapezoid(f, a, b, n)
 h = (b - a)/n;
 trapezoid = 0.5*(f(a) + f(b));
