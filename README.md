@@ -1,4 +1,5 @@
 # Integrator 
+> A List of mathematical integrators: Romberg integrator, Composite trapezoid rule, Composite midpoint rule, Composite Three-point Gaussian, Composite Simpson 1/3 rule
 github: kwyip
 # Romberg integrator
 Code: romberg.m
