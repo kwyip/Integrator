@@ -18,10 +18,8 @@ Code: compositesimpson13.m
 # Example: testing for composite rules for integrating ![](https://latex.codecogs.com/gif.latex?e%5E%7B-x%7D%20%5Ccos%282x%29) from 0 to 2pi over 32 intervals 
 Code: exampletesting32intervals.m
 
-We need to integrate:
-<img src="https://github.com/kwyip/Integrator/blob/master/png/plotfunction.png" style="height:60%;">
-
 Output:
+<img src="https://github.com/kwyip/Integrator/blob/master/png/output2.png">
 
 testingforover32intervals
 
@@ -42,3 +40,6 @@ This is composite Simpson 13 rule over 32 intervals
 The integral under Simpson 13 rule is 0.199534.
 
 The ideal solution is 0.199627.
+
+A colored plot of the function that needs to be integrated:
+<img src="https://github.com/kwyip/Integrator/blob/master/png/plotfunction.png" style="height:60%;">
