@@ -6,5 +6,5 @@ midpoint = 0;
 m = a + 0.5*h;
 for i = 1:n
     midpoint = midpoint + h*f(m);
-    m = m + h;
+    m = a + 0.5*h + i*h; %to avoid accumulation of roundoff error
 end
