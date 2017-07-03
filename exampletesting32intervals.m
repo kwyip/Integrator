@@ -24,7 +24,7 @@ midpoint = 0;
 m = a + 0.5*h;
 for i = 1:n
     midpoint = midpoint + h*f(m);
-    m = m + h;
+    m = a + 0.5*h + i*h;
 end
 fprintf('The integral under midpoint is %f.\n', midpoint);
 
