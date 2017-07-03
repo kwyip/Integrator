@@ -14,7 +14,7 @@ Code: `compositemidpoint.m`
 # Composite Three-point Gaussian over n intervals (for just Three-point Gaussian, put n = 1)
 Code: `composite3pointgaussian.m`
 # Composite Simpson's 1/3 rule over n intervals (for just Simpson's 1/3 rule, put n = 1)
-Code: compositesimpson13.m
+Code: `compositesimpson13.m`
 # Example: testing for composite rules for integrating ![](https://latex.codecogs.com/gif.latex?e%5E%7B-x%7D%20%5Ccos%282x%29) from 0 to 2pi over 32 intervals 
 Code: `exampletesting32intervals.m`
 
