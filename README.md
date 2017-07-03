@@ -42,4 +42,4 @@ The integral under Simpson 13 rule is 0.199534.
 The ideal solution is 0.199627.
 
 A colored plot of the function that needs to be integrated:
-<img src="https://github.com/kwyip/Integrator/blob/master/png/plotfunction.png" style="height:60%;">
+<img src="https://github.com/kwyip/Integrator/blob/master/png/plotfunction.png" width="580">
