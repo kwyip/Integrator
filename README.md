@@ -21,25 +21,5 @@ Code: `exampletesting32intervals.m`
 Output:
 <img src="https://github.com/kwyip/Integrator/blob/master/png/output2.png">
 
-testingforover32intervals
-
-This is composite trapezoid rule over 32 intervals
-
-The integral under trapezoid is 0.202856.
-
-This is composite midpoint rule over 32 intervals
-
-The integral under midpoint is 0.198003.
-
-This is composite three-point Gaussian over 32 intervals
-
-The integral under three-point Gaussian is 0.199627.
-
-This is composite Simpson 13 rule over 32 intervals
-
-The integral under Simpson 13 rule is 0.199534.
-
-The ideal solution is 0.199627.
-
 A colored plot of the function that needs to be integrated:
 <img src="https://github.com/kwyip/Integrator/blob/master/png/plotfunction.png" width="580">
