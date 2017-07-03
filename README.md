@@ -1,6 +1,6 @@
 # Integrator 
-> A List of mathematical integrators: Romberg integrator, Composite trapezoid rule, Composite midpoint rule, Composite Three-point Gaussian, Composite Simpson 1/3 rule
 github: kwyip
+> A List of mathematical integrators: Romberg integrator, Composite trapezoid rule, Composite midpoint rule, Composite Three-point Gaussian, Composite Simpson 1/3 rule
 # Romberg integrator
 Code: romberg.m
 It produces a matrix r of size (n+1,n+1). The entry of r(n+1,n+1) contains accurate solution.
